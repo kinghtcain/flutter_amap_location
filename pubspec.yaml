@@ -19,3 +19,4 @@ flutter:
   plugin:
     androidPackage: com.jzoom.amaplocation
     pluginClass: AmapLocationPlugin
+    
